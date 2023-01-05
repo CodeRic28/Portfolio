@@ -1,2 +1,2 @@
 # portfolio
-url: https://coderic28.github.io/portfolio/cert.html
+url: https://coderic28.github.io/portfolio/index.html
