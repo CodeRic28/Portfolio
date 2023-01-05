@@ -76,9 +76,18 @@ footer {
   color: cyan;
   font-size: 20px;
 }
+.profile-subhead{
+  font-family: 'Orbitron', sans-serif;
+}
 
 .text-xl{
   padding: 0.3em;
+  font-family: 'Orbitron', sans-serif;
+
+}
+.text-gray-500{
+  font-family: 'Orbitron', sans-serif;
+
 }
 
 .px-6,.pt-6 {
