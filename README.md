@@ -1,7 +1,6 @@
 # Portfolio
-
-![image](https://github.com/CodeRic28/portfolio/assets/51741804/5f6dabeb-9959-4099-beed-ae08f022fb97)
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/d02f22ca-671e-42d4-b0d6-aa0e7e900b3b)
+![image](https://github.com/CodeRic28/portfolio/assets/51741804/5f6dabeb-9959-4099-beed-ae08f022fb97)
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/07750094-eca9-4cc0-af7f-aaa9b187bee0)
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/bcee264b-e77e-4312-a396-7529786e1ca7)
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/810b7bbc-b9cf-491d-a8f3-1e268f648ba3)
